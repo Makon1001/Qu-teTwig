@@ -1,0 +1,13 @@
+{
+    "name": "manuelkonrath/twig",
+    "description": "Quest Twig WCS",
+    "authors": [
+        {
+            "name": "Manuel Konrath",
+            "email": "manuel.konrath@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
